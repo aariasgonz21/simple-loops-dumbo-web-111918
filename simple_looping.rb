@@ -53,6 +53,5 @@ def for_iterator(number_of_times)
   for nums in range
     puts phrase
   end
-  
 end
 
